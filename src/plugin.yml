@@ -1,0 +1,24 @@
+name: MyServerSystem
+version: 1.0.5
+author: MySystems
+main: de.MySystems.MyServerSystem.Main
+
+commands:
+    gamemode:
+      aliases: [gm]
+    clearchat:
+      aliases: [cc]
+    fly:
+    setwarp:
+    warp:
+    tp:
+    tphere:
+    kick:
+    vanish:
+      aliases: [v]
+    spawn:
+    setspawn:
+    setup:
+    invsee:
+    language:
+      aliases: [sprache]
